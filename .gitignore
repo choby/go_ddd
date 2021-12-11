@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.env
+*.exe
+__debug_bin
+go.sum
+asset/mydb.db
+
+kendo
