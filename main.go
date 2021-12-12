@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/KendoCross/kendoDDD/crosscutting"
-	"github.com/KendoCross/kendoDDD/presentation"
+	"github.com/choby/go_ddd/crosscutting"
+	"github.com/choby/go_ddd/presentation"
 	"github.com/spf13/viper"
 	"golang.org/x/sync/errgroup"
 )

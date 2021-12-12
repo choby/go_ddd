@@ -1,4 +1,4 @@
-module github.com/KendoCross/kendoDDD
+module github.com/choby/go_ddd
 
 go 1.15
 

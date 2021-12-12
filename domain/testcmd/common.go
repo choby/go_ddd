@@ -3,8 +3,8 @@ package testcmd
 import (
 	"path/filepath"
 
-	"github.com/KendoCross/kendoDDD/domain/services/helm"
-	"github.com/KendoCross/kendoDDD/infrastructure/bus"
+	"github.com/choby/go_ddd/domain/services/helm"
+	"github.com/choby/go_ddd/infrastructure/bus"
 	"github.com/spf13/viper"
 	"k8s.io/client-go/util/homedir"
 )

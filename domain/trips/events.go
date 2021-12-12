@@ -1,7 +1,7 @@
 package trips
 
 import (
-	"github.com/KendoCross/kendoDDD/domain/services/trip"
+	"github.com/choby/go_ddd/domain/services/trip"
 	eh "github.com/looplab/eventhorizon"
 )
 

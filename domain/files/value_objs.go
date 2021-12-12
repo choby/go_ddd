@@ -1,6 +1,6 @@
 package files
 
-import "github.com/KendoCross/kendoDDD/interfaces"
+import "github.com/choby/go_ddd/interfaces"
 
 type FileInfos struct {
 	interfaces.FileInfo

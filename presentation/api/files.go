@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/KendoCross/kendoDDD/application"
-	"github.com/KendoCross/kendoDDD/infrastructure/errorext"
+	"github.com/choby/go_ddd/application"
+	"github.com/choby/go_ddd/infrastructure/errorext"
 	"github.com/gin-gonic/gin"
 )
 

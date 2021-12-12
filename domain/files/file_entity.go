@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/KendoCross/kendoDDD/infrastructure/helper"
-	"github.com/KendoCross/kendoDDD/interfaces"
+	"github.com/choby/go_ddd/infrastructure/helper"
+	"github.com/choby/go_ddd/interfaces"
 	"github.com/google/uuid"
 )
 

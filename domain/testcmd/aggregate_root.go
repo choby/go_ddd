@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/KendoCross/kendoDDD/domain/services/trip"
-	"github.com/KendoCross/kendoDDD/infrastructure/helper"
+	"github.com/choby/go_ddd/domain/services/trip"
+	"github.com/choby/go_ddd/infrastructure/helper"
 	"github.com/google/uuid"
 	eh "github.com/looplab/eventhorizon"
 	"github.com/looplab/eventhorizon/aggregatestore/events"

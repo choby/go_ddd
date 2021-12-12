@@ -1,7 +1,7 @@
 package k8s
 
 import (
-	"github.com/KendoCross/kendoDDD/application"
+	"github.com/choby/go_ddd/application"
 )
 
 type PodsReq struct {

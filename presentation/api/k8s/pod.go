@@ -3,7 +3,7 @@ package k8s
 import (
 	"net/http"
 
-	"github.com/KendoCross/kendoDDD/application/k8s"
+	"github.com/choby/go_ddd/application/k8s"
 	"github.com/gin-gonic/gin"
 )
 

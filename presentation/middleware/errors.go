@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/KendoCross/kendoDDD/infrastructure/errorext"
+	"github.com/choby/go_ddd/infrastructure/errorext"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 )

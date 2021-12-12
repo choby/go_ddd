@@ -3,11 +3,11 @@ package crosscutting
 import (
 	"fmt"
 
-	"github.com/KendoCross/kendoDDD/domain"
-	"github.com/KendoCross/kendoDDD/infrastructure/logs"
-	mysql "github.com/KendoCross/kendoDDD/infrastructure/repos_mysql"
+	"github.com/choby/go_ddd/domain"
+	"github.com/choby/go_ddd/infrastructure/logs"
+	mysql "github.com/choby/go_ddd/infrastructure/repos_mysql"
 
-	//redis "github.com/KendoCross/kendoDDD/infrastructure/repos_redis"
+	//redis "github.com/choby/go_ddd/infrastructure/repos_redis"
 
 	"github.com/spf13/viper"
 )

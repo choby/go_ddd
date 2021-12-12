@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/KendoCross/kendoDDD/domain/files"
-	"github.com/KendoCross/kendoDDD/infrastructure"
-	"github.com/KendoCross/kendoDDD/infrastructure/bus"
-	"github.com/KendoCross/kendoDDD/infrastructure/ddd"
-	"github.com/KendoCross/kendoDDD/infrastructure/logs"
+	"github.com/choby/go_ddd/domain/files"
+	"github.com/choby/go_ddd/infrastructure"
+	"github.com/choby/go_ddd/infrastructure/bus"
+	"github.com/choby/go_ddd/infrastructure/ddd"
+	"github.com/choby/go_ddd/infrastructure/logs"
 	eh "github.com/looplab/eventhorizon"
 )
 

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/KendoCross/kendoDDD/interfaces"
+	"github.com/choby/go_ddd/interfaces"
 	"gorm.io/gorm"
 )
 

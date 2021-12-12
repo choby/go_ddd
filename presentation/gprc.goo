@@ -9,9 +9,9 @@ import (
 
 	"github.com/spf13/viper"
 	"google.golang.org/grpc"
-	"github.com/KendoCross/kendoDDD/application"
-	"github.com/KendoCross/kendoDDD/application/pb/base_srv"
-	"github.com/KendoCross/kendoDDD/presentation/middleware"
+	"github.com/choby/go_ddd/application"
+	"github.com/choby/go_ddd/application/pb/base_srv"
+	"github.com/choby/go_ddd/presentation/middleware"
 )
 
 func InitRPC() error {

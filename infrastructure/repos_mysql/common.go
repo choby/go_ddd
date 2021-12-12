@@ -3,7 +3,7 @@ package repos_mysql
 import (
 	"fmt"
 
-	"github.com/KendoCross/kendoDDD/infrastructure/logs"
+	"github.com/choby/go_ddd/infrastructure/logs"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

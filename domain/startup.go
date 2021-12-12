@@ -1,9 +1,9 @@
 package domain
 
 import (
-	"github.com/KendoCross/kendoDDD/domain/k8s_info"
-	"github.com/KendoCross/kendoDDD/domain/testcmd"
-	"github.com/KendoCross/kendoDDD/domain/trips"
+	"github.com/choby/go_ddd/domain/k8s_info"
+	"github.com/choby/go_ddd/domain/testcmd"
+	"github.com/choby/go_ddd/domain/trips"
 )
 
 func StartUp() (err error) {

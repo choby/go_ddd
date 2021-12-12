@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/KendoCross/kendoDDD/infrastructure/bus"
-	"github.com/KendoCross/kendoDDD/infrastructure/helper"
+	"github.com/choby/go_ddd/infrastructure/bus"
+	"github.com/choby/go_ddd/infrastructure/helper"
 	eh "github.com/looplab/eventhorizon"
 )
 

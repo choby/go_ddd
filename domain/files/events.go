@@ -1,7 +1,7 @@
 package files
 
 import (
-	"github.com/KendoCross/kendoDDD/interfaces"
+	"github.com/choby/go_ddd/interfaces"
 	eh "github.com/looplab/eventhorizon"
 )
 

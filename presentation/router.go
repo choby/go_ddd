@@ -4,11 +4,11 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/KendoCross/kendoDDD/application"
-	"github.com/KendoCross/kendoDDD/infrastructure/ddd"
-	"github.com/KendoCross/kendoDDD/presentation/api"
-	"github.com/KendoCross/kendoDDD/presentation/api/k8s"
-	"github.com/KendoCross/kendoDDD/presentation/middleware"
+	"github.com/choby/go_ddd/application"
+	"github.com/choby/go_ddd/infrastructure/ddd"
+	"github.com/choby/go_ddd/presentation/api"
+	"github.com/choby/go_ddd/presentation/api/k8s"
+	"github.com/choby/go_ddd/presentation/middleware"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 )

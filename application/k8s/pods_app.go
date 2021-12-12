@@ -1,8 +1,8 @@
 package k8s
 
 import (
-	"github.com/KendoCross/kendoDDD/domain/k8s_info"
-	"github.com/KendoCross/kendoDDD/infrastructure/logs"
+	"github.com/choby/go_ddd/domain/k8s_info"
+	"github.com/choby/go_ddd/infrastructure/logs"
 	v1 "k8s.io/api/core/v1"
 )
 
